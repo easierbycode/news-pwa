@@ -1,0 +1,10 @@
+main > .article {
+    background-color: #fafcfe;
+    margin-bottom: 20px;
+    padding: 10px 15px;
+}
+
+img {
+    height: auto;
+    max-width: 100%;
+}
